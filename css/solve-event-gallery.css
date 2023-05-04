@@ -1,0 +1,17 @@
+#header #logo img {
+  padding: 0;
+  margin-left: 93px;
+}
+ol, ul {
+  margin-left: 76px;
+  padding: 0;
+  list-style: none;
+}
+.justify-content-between {
+  /* justify-content: space-between !important; */
+  margin-right: 78px;
+}
+.top-head-left {
+ 
+  padding-right: 94px;
+}
